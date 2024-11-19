@@ -5,7 +5,7 @@ Setup Instructions
 1. Clone the repository
 Start by cloning the repository to your local machine.
 
-git clone https://github.com/yourusername/task-tracker.git
+git clone https://github.com//SyedSaood/tasktrackersystem.git
 cd task-tracker
 2. Build the project
 The project can be built using Maven or Gradle. To build the project with Maven, run the following command:
